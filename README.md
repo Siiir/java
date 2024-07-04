@@ -2,7 +2,7 @@
 
 ## Contests
 
-### [licensing service](https://github.com/Siiir/java-licensing-service)
+### [licensing service](https://github.com/Siiir/java-licensing-service) on Spring Boot
 Allows creation, reading, update, deactivation of licenses.
 All licenses created for customers are based on the root "buyable license" and contain additional owner-specific info.
 
