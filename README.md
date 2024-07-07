@@ -1,5 +1,10 @@
 # My projects using Java
 
+
+#### See my related hard skills
+[C#](https://github.com/Siiir/csharp)
+
+
 ## Contests
 
 ### [licensing service](https://github.com/Siiir/java-licensing-service) on Spring Boot
