@@ -5,7 +5,7 @@
 [C#](https://github.com/Siiir/csharp)
 
 
-## Contests
+## Contents
 
 ### [licensing service](https://github.com/Siiir/java-licensing-service) on Spring Boot
 Allows creation, reading, update, deactivation of licenses.
