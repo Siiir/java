@@ -13,7 +13,7 @@
 📡 Serves chat messages to all chat clients that request them.  
 📝 Allows clients to post new messages and efficiently ping to see if a new message was posted.
 
-### [🎓 Hyperskill-based Java Projects](https://github.com/tn-hyperskill) on Hyperskill 🎓
+### [🎓 Implementation of projects](https://github.com/tn-hyperskill) from Hyperskill 🎓
 🔧 A collection of small/medium Java apps built via JetBrains Academy (Hyperskill).  
 ⚙️ Each includes automated builds (Gradle/Maven, tests, and brief documentation.
 
